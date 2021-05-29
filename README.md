@@ -13,7 +13,7 @@ I want to improve my english and become fluent.
 - [x] I am currently migrating platform in ReactJS to NextJS.
 - [x] I coded and improving components.
 
-##### MContigo `Espanha` `Remote` - `Frontend Developer`
+##### MContigo `Spain` `Remote` - `Frontend Developer`
 - [x] I coded new features on the platform, using ReactJS, NextJS, HTML, CSS.
 - [x] I performed maintenance on Design System.
 - [x] I performed maintenance on the platforms.
