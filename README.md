@@ -3,7 +3,7 @@
 I like programming since I am 14, but I started my career in 2018 as an Intern, developing new features and performed maintenance on a web application using HTML, CSS, Javascript and Wordpress.
 Now, my focus is ReactJS, Typescript and NextJS, that I work daily.
 
-## 🎯 My gols to 2021
+## 🎯 My gols to 2022
 
 I want to improve my english and become fluent.
 
