@@ -1,6 +1,6 @@
 # 📝 Gustavo Oliveira - Frontend Developer
 
-I like programming since I am 14, until today I coming programming and updating my knowledge.
+I like programming since I was 14, until today I coming programming and updating my knowledge.
 Currently I has work with React, NextJS, Typescript, React Native.
 
 ## 🎯 My gols to 2022
