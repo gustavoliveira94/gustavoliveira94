@@ -3,10 +3,6 @@
 I have been programming since I was 14, until today I keep programming and updating my knowledge.
 Currently I have been working with React, NextJS, Typescript, React Native.
 
-## 🎯 My goals to 2023
-
-I want to improve my english and become fluent.
-
 ## 👨🏻‍💻 Experiences
 
 ##### Saúde iD `Brazil` `Remote` - `Frontend Developer`
